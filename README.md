@@ -1,3 +1,4 @@
+![Electricity-Generation-Featured-Image](https://github.com/JoeG230/Capstone-Project/assets/157436571/f4f068d2-25da-412e-8640-65b5d5f98bce)
 
 # Capstone-Project
 An exploration of worldwide electricity consumption 
