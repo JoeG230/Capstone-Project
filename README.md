@@ -1,4 +1,4 @@
-![Electricity-Generation-Featured-Image.jpg](attachment:Electricity-Generation-Featured-Image.jpg)
+
 # Capstone-Project
 An exploration of worldwide electricity consumption 
 
