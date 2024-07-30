@@ -8,7 +8,7 @@ In this final project, students were tasked with finding their own dataset, perf
 
 A non technical presentation of the findings can be found under **Capstone Project Presentation.pdf**. 
 
-Details of my working, with all python code, and three iterations of the model, can be found under **World_Electricity_Consumption_Notebook.ipynb**.
+Details of my working, with all code, and three iterations of the model, can be found under **World_Electricity_Consumption_Notebook.ipynb**.
 
 ## The Dataset
 The World Energy Consumption dataset was
