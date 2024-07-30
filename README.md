@@ -4,7 +4,11 @@
 An exploration of worldwide electricity consumption 
 
 ## Overview
-In this final project, students were tasked with finding their own dataset, performing multilinear regression analysis to find insights and conclusions. This project looks at data on **world electricity generation**, with the aim of providing an insight into some of the factors that affect electricity generation per capita.  
+In this final project, students were tasked with finding their own dataset, performing multilinear regression analysis to find insights and conclusions. This project looks at data on **world electricity generation**, with the aim of providing an insight into some of the factors that affect electricity generation per capita. 
+
+A non technical presentation of the findings can be found under **Capstone Project Presentation.pdf**. 
+
+Details of my working, with all python code, and three iterations of the model, can be found under **World_Electricity_Consumption_Notebook.ipynb**.
 
 ## The Dataset
 The World Energy Consumption dataset was
@@ -14,15 +18,6 @@ World in Data*.
 
 This dataset has energy data for every country,
 with 129 variables and over 22,000 rows.
-
-Before diving into the data, I decided to focus
-on data from 2001 onwards. Unfortunately there
-was too much missing data between 2019 - 2022,
-so our data focuses on 2001 - 2018.
-
-Countries with populations smaller than 2
-million were excluded to emphasize trends
-within larger population groups.
 
 Our final cleaned dataset had around 2500 rows. And
 focused on:
